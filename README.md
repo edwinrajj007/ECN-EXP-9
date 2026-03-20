@@ -29,21 +29,23 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/31409ada-53dd-4b48-bd2c-134867864149" />
 
 
+<img width="1425" height="1600" alt="image" src="https://github.com/user-attachments/assets/cfbfd5f9-d70d-40bd-bb8b-2f9973fa30a7" />
 
 **TABULATION:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6012be8d-1203-4514-a854-f74678f7753f" />
+<img width="1080" height="1465" alt="image" src="https://github.com/user-attachments/assets/d04d3628-b8cd-4ff4-aeae-315320928c31" />
 
 **Calculation**
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ddda538b-612e-438c-b12e-fb4ae8dd54ff" />
+<img width="1583" height="1600" alt="image" src="https://github.com/user-attachments/assets/708c15e7-71c5-4485-a03f-c8adab2c2b0e" />
 
 
+**Simulation output**
 
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/cb15ef09-417e-4c13-925a-3ee13ed1a5d2" />
 
-
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/654abed7-9270-41f8-8949-765d7d3de1fd" />
 
 **PROCEDURE:**
 
@@ -55,9 +57,9 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
 
+<img width="1600" height="1097" alt="image" src="https://github.com/user-attachments/assets/be67abf9-6ceb-4d43-8415-359f8c2d0829" />
 
 **RESULT:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b27305e9-21ab-4eb0-a8df-c13a2fd6e8bd" />
 
 
 The Z-parameters of the two port network has been calculated and verified by using Multisim Simulator.
